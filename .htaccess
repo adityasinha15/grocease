@@ -1,0 +1,31 @@
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 172.69.234.135
+deny from 172.69.234.145
+deny from 108.162.221.32
+deny from 172.69.234.133
+deny from 162.158.126.97
+deny from 162.158.93.54
+deny from 162.158.94.59
+deny from 172.68.59.177
+deny from 162.158.74.150
+deny from 108.162.219.175
+deny from 172.69.68.228
+deny from 172.68.58.164
+deny from 172.69.70.44
+deny from 172.69.68.156
+deny from 172.68.58.74
+deny from 162.158.183.86
+deny from 108.162.219.43
+deny from 162.158.75.109
+deny from 162.158.74.114
+deny from 172.69.70.116
+deny from 172.68.58.158
+deny from 108.162.216.49
+deny from 162.158.165.25
+deny from 162.158.88.5
+deny from 172.69.69.145
